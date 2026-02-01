@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-label="Placeholder project photo">
+  <rect width="1200" height="800" rx="28" fill="#0B2D5B"/>
+  <g fill="rgba(255,255,255,0.92)" font-family="system-ui, -apple-system, Segoe UI, Roboto, Arial">
+    <text x="72" y="430" font-size="54" font-weight="800">Project Photo Placeholder</text>
+    <text x="72" y="500" font-size="26" opacity="0.9">Swap with real before/after photos (optimized + alt text).</text>
+  </g>
+</svg>
